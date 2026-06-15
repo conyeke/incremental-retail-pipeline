@@ -1,0 +1,7 @@
+# Data Fetching
+ucimlrepo==0.1.9
+
+# Core Frameworks (Pre-installed on Databricks clusters)
+pandas>=2.0.0
+pyspark>=3.5.0
+delta-spark>=3.0.0
